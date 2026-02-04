@@ -14,8 +14,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "TA Experience"
+    url: /ta-experience/
     
   - title: "CV"
     url: /cv/

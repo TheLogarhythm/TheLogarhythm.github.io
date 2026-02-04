@@ -9,19 +9,24 @@ redirect_from:
 
 Hello! I'm Luoyi Zhang, a third-year Computer Science undergraduate at the Hong Kong University of Science and Technology (HKUST). I'm passionate about **Computer Graphics**. I am currently working on a 3D Gaussian Splatting project under the supervision of Prof. Pedro V. Sander.
 
+<br>
+
 Education
 ======
 **The Hong Kong University of Science and Technology (HKUST)**  
-*BSc in Computer Science & Mathematics, Expected May 2027*  
+- *BSc in Computer Science & Mathematics, 2023 - May 2027 (Expected)*  
 - Cumulative Grade Average (CGA): **4.154/4.3**
 
 **Georgia Institute of Technology**  
-*Exchange Semester, Fall 2025*  
+- *Exchange Semester, Fall 2025*  
 - GPA: **4.0/4.0**
+<br>
 
 Research Interests
 ======
 My primary interests lie in **Computer Graphics**, with particular focus on rendering techniques, visual computing, and the application of machine learning methods to graphics problems. I'm eager to explore how computational approaches can enhance visual experiences and solve challenging problems in computer-generated imagery.
+
+<br>
 
 Selected Coursework
 ======
@@ -44,6 +49,8 @@ Selected Coursework
 - Differential Equations (HKUST)
 - Applied Statistics (HKUST)
 - Linear Algebra (HKUST)
+
+<br>
 
 Awards & Honors
 ======
