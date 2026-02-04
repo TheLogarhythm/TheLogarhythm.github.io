@@ -20,6 +20,7 @@ Education
 **Georgia Institute of Technology**  
 - *Exchange Semester, Fall 2025*  
 - GPA: **4.0/4.0**
+
 <br>
 
 Research Experience
