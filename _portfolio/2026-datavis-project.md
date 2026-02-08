@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization Project"
-excerpt: "Interactive data visualization project for COMP4462"
+excerpt: "Interactive data visualization project for COMP4462<br/><img src='/images/portfolio/data-visualization.png'>"
 collection: portfolio
 date: 2026-05-01
 ---
