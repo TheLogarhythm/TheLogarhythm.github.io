@@ -53,10 +53,10 @@ Selected Coursework
 ======
 
 **Computer Graphics & Machine Learning:**
-- COMP5422: Deep 2D and 3D Visual Scene Understanding (HKUST, Graduate)
-- COMP5212: Machine Learning (HKUST, Graduate)
-- COMP4462: Data Visualization (HKUST)
-- CS4641: Machine Learning (Georgia Tech)
+- [COMP5422: Deep 2D and 3D Visual Scene Understanding](/portfolio/2026-scene-understanding/) (HKUST, PG Course)
+- COMP5212: Machine Learning (HKUST, PG Course)
+- [COMP4462: Data Visualization](/portfolio/2026-datavis-project/) (HKUST)
+- [CS4641: Machine Learning](/portfolio/2025-ml-project/) (Georgia Tech)
 - CS3451: Introduction to Computer Graphics (Georgia Tech)
 
 **Theory & Algorithms:**
@@ -66,7 +66,7 @@ Selected Coursework
 
 **Systems & Applications:**
 - COMP3511: Operating Systems (HKUST)
-- COMP4901D: Embedded AI Systems (HKUST)
+- [COMP4901D: Embedded AI Systems](/portfolio/2026-embedded-ai/) (HKUST)
 - CS4400: Introduction to Database Systems (Georgia Tech)
 
 **Mathematics & Statistics:**

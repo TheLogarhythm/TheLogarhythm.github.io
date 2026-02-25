@@ -26,3 +26,14 @@ Developing and deploying AI models on resource-constrained embedded devices, foc
 
 ## Course
 COMP4901D: Embedded AI Systems, HKUST, Spring 2026
+
+---
+
+## Paper Presentation
+As part of the course requirements, I presented a research paper on denoising generative models:
+
+**Paper:** [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
+
+**Presentation:** [View Slides on Overleaf](https://www.overleaf.com/read/hxpwftfkvhqg#229856)
+
+The presentation introduces the key concepts and contributions of this paper on denoising diffusion models.
