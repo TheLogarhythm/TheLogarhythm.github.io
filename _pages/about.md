@@ -82,4 +82,4 @@ Awards & Honors
 
 ---
 
-Feel free to explore my [portfolio](/portfolio/) to see my projects, check out my [CV](/cv/) for more details, or reach out at [lzhangdu@connect.ust.hk](mailto:lzhangdu@connect.ust.hk).
+Feel free to explore my [portfolio](/portfolio/) to see my projects, check out my [CV](https://www.overleaf.com/read/fhkqrxwhdgfq#4e666e) for more details, or reach out at [lzhangdu@connect.ust.hk](mailto:lzhangdu@connect.ust.hk).
